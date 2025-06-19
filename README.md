@@ -20,9 +20,8 @@
 + data
   + captcha //配置文件
 ```
-* 调研——CNN无法解决图案类识别问题——YOIOV5——获取验证码集合——YOLOV5训练——验证结果——学习使用github——学习markdown语法
+
 ## TODO：
 
 * 引用**Selenium**对B站登录操作弹出的验证码做全自动文字点选。
 * 以包的方式调用YOLO进行训练，而不是直接用YOLOV5官方提供的代码仓库
-![项目实战思路](https://github.com/konoxiguada/yolov5_test/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%80%9D%E8%B7%AF.png?raw=true)
