@@ -16,4 +16,4 @@
 ## TODO：
 
 * 引用**Selenium**对B站登录操作弹出的验证码做全自动文字点选。
-![项目实战思路](https://raw.githubusercontent.com/konoxiguada/yolov5_test/项目实战思路.png)
+[![项目实战思路](https://raw.githubusercontent.com/konoxiguada/yolov5_test/项目实战思路.png)](https://github.com/konoxiguada/yolov5_test/blob/main/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%80%9D%E8%B7%AF.png)
