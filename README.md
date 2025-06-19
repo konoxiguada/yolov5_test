@@ -19,6 +19,7 @@
   + yolov5s //预训练模型
 + data
   + captcha //配置文件
++ result //存放了部分验证结果
 ```
 
 ## TODO：
