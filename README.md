@@ -26,3 +26,4 @@
 
 * 引用**Selenium**对B站登录操作弹出的验证码做全自动文字点选。
 * 以包的方式调用YOLO进行训练，而不是直接用YOLOV5官方提供的代码仓库
+* ![路线图](https://github.com/konoxiguada/yolov5_test/blob/main/%E8%B7%AF%E7%BA%BF.png?raw=true)
