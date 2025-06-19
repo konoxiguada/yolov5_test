@@ -8,9 +8,15 @@
 + myimg
   + images //Geetest文字点选原始图片集
   + labels //标签集
-  + runs
++ runs
     + train
       + exp1 //YOLOV5训练结果
+    + detect //YOLOV5验证结果
++ models //模型集合
+  +yolov5s_captcha //训练用模型
++ utils //工具函数
++ weights
+  + yolov5s //预训练模型
 ```
 
 ## TODO：
